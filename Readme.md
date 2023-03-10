@@ -1,3 +1,3 @@
-##Todo App With Draggable Items
+Todo App With Draggable Items
 
-###Redux Toolkit Basics + Typescrip + React
+Redux Toolkit Basics + Typescript + React
